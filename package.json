@@ -7,7 +7,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/selbekk/calidation"
+        "url": "https://github.com/patiphannn/calidation"
     },
     "scripts": {
         "prebuild": "rimraf dist",
